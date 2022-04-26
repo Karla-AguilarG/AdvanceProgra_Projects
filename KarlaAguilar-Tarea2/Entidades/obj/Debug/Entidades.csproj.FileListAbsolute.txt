@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Entidades\bin\Debug\Entidades.pdb

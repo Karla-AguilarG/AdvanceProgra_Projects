@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\obj\Debug\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\obj\Debug\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\obj\Debug\Acceso_Datos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\obj\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Acceso_Datos\obj\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\obj\Debug\Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\obj\Debug\Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\obj\Debug\Acceso_Datos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\obj\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Acceso_Datos\obj\Debug\Acceso_Datos.pdb

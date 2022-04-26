@@ -1,0 +1,89 @@
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.MenuInicio.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.ActualizarInventario.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarArticulos.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarVendedores.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.ConsultarInventario.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.ConsultarVentas.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarVentaArticulos.resources
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\Presentacion\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.ActualizarInventario.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.ConsultarInventario.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.ConsultarVentas.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.MenuInicio.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarArticulos.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarVendedores.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarVentaArticulos.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.Portada.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.ActualizarInventario.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.ConsultarInventario.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.ConsultarVentas.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.MenuInicio.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.Portada.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarArticulos.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarVendedores.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Ventanas.RegistrarVentaArticulos.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.Splash.resources
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Desktop\KarlaAguilar-Tarea2\Presentacion\obj\Debug\Presentacion.pdb

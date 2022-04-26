@@ -1,0 +1,22 @@
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\obj\Debug\Logica_Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\obj\Debug\Logica_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\obj\Debug\Logica_Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Tarea1_C#\KarlaAguilar-Tarea1\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\bin\Debug\Acceso_Datos.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\bin\Debug\Acceso_Datos.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\obj\Debug\Logica_Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\obj\Debug\Logica_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\obj\Debug\Logica_Negocio.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Tarea 2 -C#\KarlaAguilar-Tarea2\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
